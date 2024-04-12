@@ -70,7 +70,7 @@ behaviors {
         flavor = "tap-preferred";
         bindings = <&kp>, <&kp>;
     };
-    
+     
     td_mt_enter_tab_f2_f4: tap_dance_mod_tap_tab_esc {
             compatible = "zmk,behavior-tap-dance";
             label = "TAP_DANCE_MOD_TAP_enter_tab_f2_f4";
